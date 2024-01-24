@@ -26,4 +26,8 @@ column as "Seller Name".
 f) Write 2 new queries and run each one in MySQL and MongoDB, it is expected
 that you will use advanced features and explain the purpose of each query.
 
+In the SQL file, a database named "Bolton Auction" is created with tables namely "staff", "bidder", "seller", "auction", "lot", "lotsale" and "item".
+The data is inserted into these tables. Then, the queries are resolved.
+
+
 
